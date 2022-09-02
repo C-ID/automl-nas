@@ -1,2 +1,2 @@
 # automl-nas
-RL nas arch,
+RL nas arch
