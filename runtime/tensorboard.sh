@@ -1,0 +1,1 @@
+tensorboard --logdir ./tensorboard-12-Nov-at-08-01-38/ --host 0.0.0.0
